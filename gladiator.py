@@ -1,4 +1,3 @@
-#importerar random
 import random
 
 #Karaktär Val 
